@@ -1,5 +1,6 @@
 <template>
   <div class="hello">
+    <img width="256px" height="256px" src="http://l79.inf.ua/1.gif" alt="Логотип">
     <h1>{{ msg }}</h1>
     <h2>Essential Links</h2>
     <ul>

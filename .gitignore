@@ -16,3 +16,4 @@ selenium-debug.log
 *.sln
 *.log
 logs/
+access.log
